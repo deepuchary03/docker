@@ -21,4 +21,3 @@ if __name__ == '__main__':
 
 #commands to run: Docker build -t simple-flask-app .
 #                 Docker run -p 5000:5000 simple-flask-app
-#this is changed
